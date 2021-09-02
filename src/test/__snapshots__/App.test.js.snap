@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>> snapShots App snapShots 1`] = `
+<div
+  className="App"
+>
+  <h2
+    className="title"
+  >
+    Hello World
+  </h2>
+  <p
+    className="paragraph"
+  >
+    react unit testing
+  </p>
+  <p
+    className="h1"
+  >
+    h1: 
+    h1
+  </p>
+  <button
+    className="alert"
+    onClick={[Function]}
+  >
+    submit
+  </button>
+  <hr
+    className="hr"
+  />
+  <h2>
+    count: 
+    0
+  </h2>
+  <button
+    className="inc"
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    className="dec"
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <hr
+    className="hr"
+  />
+</div>
+`;
+
+exports[`>> snapShots App snapShots 2`] = `
+<div>
+  <h2
+    className="title"
+  >
+    Hello World
+  </h2>
+  <p
+    className="paragraph"
+  >
+    react unit testing
+  </p>
+  <p
+    className="h1"
+  >
+    hey:
+    h1
+  </p>
+  <button
+    className="alert"
+    onClick={[Function]}
+  >
+    submit
+  </button>
+  <hr
+    className="hr"
+  />
+</div>
+`;
+
+exports[`>> snapShots Count snapShots 1`] = `
+<div>
+  <h2>
+    count: 
+    0
+  </h2>
+  <button
+    className="inc"
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    className="dec"
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <hr
+    className="hr"
+  />
+</div>
+`;
+
+exports[`>> snapShots Header ---> snapShots 1`] = `
+<div>
+  <h2
+    className="title"
+  >
+    Hello World
+  </h2>
+  <p
+    className="paragraph"
+  >
+    react unit testing
+  </p>
+  <p
+    className="h1"
+  >
+    hey:
+    h1
+  </p>
+  <button
+    className="alert"
+    onClick={[Function]}
+  >
+    submit
+  </button>
+  <hr
+    className="hr"
+  />
+</div>
+`;
+
+exports[`snapShots App snapShots 1`] = `
+<div
+  className="App"
+>
+  <h2
+    className="title"
+  >
+    Hello World
+  </h2>
+  <p
+    className="paragraph"
+  >
+    react unit testing
+  </p>
+  <button
+    className="alert"
+    onClick={[Function]}
+  >
+    submit
+  </button>
+  <hr
+    className="hr"
+  />
+  <h2>
+    count : 
+    0
+     
+  </h2>
+  <button
+    className="inc"
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    className="dec"
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <hr
+    className="hr"
+  />
+</div>
+`;
